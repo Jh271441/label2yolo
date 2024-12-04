@@ -1,0 +1,6 @@
+**.zip
+train/
+valid/
+json/
+.idea/
+.vscode/
